@@ -7,7 +7,13 @@ Cinema service made with DFR for management.
 git clone https://github.com/ProdyRodion/Cinema-DRF-api.git
 cd cinema-api
 python -m venv venv
+
+On Mac and Linux:
 source venv/bin/activate
+
+On Windows:
+venv/Scripts/activate
+
 pip install -r requirements.txt
 ```
 
