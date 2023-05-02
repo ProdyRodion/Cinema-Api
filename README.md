@@ -23,7 +23,7 @@ export DB_HOST=<your db hostname>
 export DB_NAME=<your db name>
 export DB_USER=<your db user>
 export DB_PASSWORD=<your db password>
-export DB_SECRET_KEY=<your secret key>
+export SECRET_KEY=<your secret key>
 python manage.py migrate
 python manage.py runserver
 ```
